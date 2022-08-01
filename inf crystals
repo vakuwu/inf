@@ -1,2 +1,1 @@
-task.wait(12)
 game.Players.LocalPlayer:Kick("Banned for exploiting. Ban ID: 845973798. Moderator Tag: Jupiter#9968")
